@@ -18,4 +18,6 @@ Getting Started
 To use this module, you can clone this repository and use the CRC_16_serial module in your Verilog project. You can also modify the module to use a different CRC polynomial or LFSR size.
 
 To run the testbench, you can use any Verilog simulator (e.g., Icarus Verilog, ModelSim). Simply compile the CRC_16_serial.v and testbench files and run the simulation.
+
+In the below example, remainder is generated after we exhaust all the input bits
 ![image](https://user-images.githubusercontent.com/64193247/230792270-403e6b79-9d5d-47ba-9d6b-ac22cd857d93.png)
